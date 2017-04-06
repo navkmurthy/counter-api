@@ -21,7 +21,7 @@
         <authentication-provider>
             <user-service>
                <!-- Encrypted value b3B0dXM6Y2FuZGlkYXRlcw== -->
-                  <user name="optus" password="candidates" authorities="ROLE_USER" />
+                  <user name="XXXXX" password="XXXXX" authorities="ROLE_USER" />
             </user-service>
         </authentication-provider>
     </authentication-manager>    
